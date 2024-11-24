@@ -53,7 +53,7 @@ function RelevantLinks() {
         <figure style={{ margin: "0 10px" }}>
           <a
             className="App-link"
-            href="https://github.com/BachaniS/kanbas-react-web-app/tree/a5"
+            href="https://github.com/BachaniS/geekbook"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -70,7 +70,7 @@ function RelevantLinks() {
         <figure style={{ margin: "0 10px" }}>
           <a
             className="App-link"
-            href="https://github.com/BachaniS/kanbas-node-server-app/tree/a1"
+            href="https://github.com/BachaniS/geekbook_server"
             target="_blank"
             rel="noopener noreferrer"
           >
